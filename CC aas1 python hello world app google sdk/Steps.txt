@@ -1,0 +1,18 @@
+Download:
+https://cloud.google.com/sdk/docs/install
+
+Download:
+Python 27
+
+Open Cloud Shell SDK cmd prompt
+1. gcloud init
+2. (1) Re-initialize configuration
+3. (2) Login with new acc
+
+Open new folder and the from that cmd
+1. code .
+It opens VS code editor and there write test.py and app.yaml files over there
+
+Open Cloud Shell SDK cmd prompt
+path for dev app server and space folder path 
+
